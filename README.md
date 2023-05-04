@@ -1,4 +1,4 @@
-# MultiStyleGAN
+# Project Page for MultiStyleGAN
 
 This repository contains the source code for the project page for the project "MultiStyleGAN".
 
